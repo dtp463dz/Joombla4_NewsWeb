@@ -1,0 +1,11 @@
+/* Thay đổi kiểu dáng tiêu đề */
+.newsflash-title {
+    font-size: 24px;
+    color: #ff0000; /* Màu đỏ */
+}
+
+/* Thay đổi kiểu dáng hình ảnh */
+.newsflash-image {
+    border: 1px solid #ccc; /* Đường viền ảnh */
+    margin: 10px; /* Khoảng cách từng bức ảnh */
+}
